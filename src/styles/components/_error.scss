@@ -1,0 +1,22 @@
+.fatalerror {
+  display: none;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  &--show {
+    display: block;
+  }
+
+  span {
+    width: 100%;
+    position: fixed;
+    padding: 20px;
+    background: red;
+    color: #fff;
+    font-weight: 800;
+    text-align: center;
+    z-index: 100;
+  }
+}

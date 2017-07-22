@@ -1,0 +1,51 @@
+/*=============================
+=            Fonts            =
+=============================*/
+$base-font-family: 			'aktiv-grotesk', Helvetica, Arial, sans-serif !default;
+$base-font-size: 			16px !default;
+
+$base-font-weight: 			300 !default;
+$heading-font-weight: 		600 !default;
+
+$font-size-xs: 				10px !default;
+$font-size-sm:				12px !default;
+$font-size-sd:				14px !default;
+$font-size-zeta: 			18px !default;
+$font-size-epsilon: 		20px !default;
+$font-size-delta: 			24px !default;
+$font-size-gamma: 			36px !default;
+$font-size-beta: 			48px !default;
+$font-size-alpha: 			64px !default;
+$font-size-zeus: 			88px !default;
+
+/*===============================
+=            Borders            =
+===============================*/
+$base-border-radius: 				5px;
+$round-border-radius: 				50px;
+$circle-border-radius: 				50%;
+
+
+/*==================================
+=            Box Shadow            =
+====================================*/
+$default-box-shadow:                0 0 10px rgba(black, 0.2);
+
+
+
+
+/*==================================
+=            Media Grid Map        =
+====================================*/
+$tablet: (
+    media: 768px
+);
+
+$laptop: (
+    media: 992px
+);
+
+$desktop: (
+    media: 1200px
+);
+

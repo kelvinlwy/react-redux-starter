@@ -1,0 +1,44 @@
+*.sh
+.idea
+/dist/hot
+/dist/js
+/dist/css
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# nyc test coverage
+.nyc_output
+
+# node-waf configuration
+.lock-wscript
+
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# OS or Editor folders
+.DS_Store
+.cache
+
+# Brunch folder for temporary files.
+tmp/
+
+# DotEnv
+.env
